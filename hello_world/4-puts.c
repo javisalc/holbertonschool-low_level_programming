@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- *main - Entry point of the program.
- *
- *this function prints a message to the console.
- *
- *return: Always return 0 to indicate succes
+ *main - prints "Programming is like building a multiligual
+ *puzzle, followed by a newline."
+ *return 0.
  */
 int main(void)
 {
