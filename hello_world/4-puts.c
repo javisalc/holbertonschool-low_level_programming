@@ -4,7 +4,7 @@
  *
  *this function prints a message to the console.
  *
- *Return> Always 0 (success)
+ *Return - Always return  0 (success)
  */
 int main(void)
 {
