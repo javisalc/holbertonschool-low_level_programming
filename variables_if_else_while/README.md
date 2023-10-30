@@ -1,0 +1,1 @@
+Hi, this is a repository for practicing and learning C programming language
