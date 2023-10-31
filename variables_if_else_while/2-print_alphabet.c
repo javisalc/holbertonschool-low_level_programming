@@ -5,7 +5,8 @@
  *
  *Return: always 0 for succes
  */
-int main(void) {
+int main(void)
+{
 char letter = 'a';
 while (letter <= 'z')
 {
