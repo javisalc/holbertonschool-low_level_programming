@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - a function for printing alphabet in lowercase except q and e
+ *main - Function for printing alphabet in lowercase except q and e
  *
  *return: always (0) for indicating success
  */
