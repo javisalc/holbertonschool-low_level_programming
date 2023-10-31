@@ -6,8 +6,8 @@
  *Return: always 0 for succes
  */
 int main () {
-char letter = "a";
-while (letter <=z){
+char letter = 'a';
+while (letter <='z'){
 putchar(letter);
 letter++;
 }
