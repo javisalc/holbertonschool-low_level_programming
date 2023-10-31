@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-int = in;
+int in;
 for (in = 0; in <= 9; in++)
 {
 putchar(in);
