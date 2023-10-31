@@ -2,7 +2,7 @@
 /**
  * main - Print the alphabet in lower case and uppercase
  *
- * return: Always 0 for success
+ * Return: Always (Success)
  */
 int main(void)
 {
@@ -18,4 +18,3 @@ putchar(letter);
 putchar('\n');
 return (0);
 }
-  
