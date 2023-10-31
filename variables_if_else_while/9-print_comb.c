@@ -1,4 +1,4 @@
-#include <stio.h>
+#include <stdio.h>
 /**
  * main - print a combination of numbers using putchar
  *
