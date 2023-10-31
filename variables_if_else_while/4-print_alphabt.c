@@ -2,7 +2,7 @@
 /**
  * main - Function for printing alphabet in lowercase except q and e
  *
- * return: always (0) for indicating success
+ * Return: Always (Success)
  */
 int main(void)
 {
