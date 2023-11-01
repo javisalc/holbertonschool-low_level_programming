@@ -2,7 +2,7 @@
 /**
  * main - print the alphabet
  *
- *Return: Always success
+ *Return: void
  */
 void print_alphabet(void)
 {
@@ -12,5 +12,4 @@ for (x = 'a'; x <= 'z'; x++)
 _putchar(x);
 }
 _putchar('\n');
-return (0);
 }
