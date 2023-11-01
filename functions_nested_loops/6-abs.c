@@ -4,7 +4,7 @@
  *
  * Return: a number with the absolute value of an integer
  */
-int _abs(int)
+int _abs(int n)
 {
 int n;
 if (n >=  0)
